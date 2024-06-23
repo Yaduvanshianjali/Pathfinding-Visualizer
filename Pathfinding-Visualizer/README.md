@@ -1,8 +1,6 @@
 # Pathfinding Visualizer
 A pathfinding visualizer made in Python and Pygame. This project aims to provide a fun and interactive way to learn about popular pathfinding algorithms such as Dijkstra's, A* and other [supported algorithms](#supported-algorithms).
 
-https://user-images.githubusercontent.com/67793598/218127466-38274684-5eb6-44e9-b842-29720a26dd54.mp4
-
 ## Screenshots
 <table border='0px'>
     <tr>
@@ -69,20 +67,3 @@ Each algorithm uses a different approach to finding the shortest path between tw
 * Python 3.10 and above: You can download the latest version of Python from the official website (https://www.python.org/downloads/).
 * Pygame: You can install Pygame by running 'pip install pygame' in your terminal.
 
-## Usage
-- Download the project repository to your local machine. 
-- Navigate to the project directory.
-- Run `python3 run.pyw` if on Linux or Mac
-- Run `python run.pyw` if on Windows
-
-## Command Line Arguments
-1. `--cell-size`
-Usage: `python run.pyw --cell-size:<int>`
-
-## Contributing
-This project is open to contributions, bug reports, and suggestions. If you've found a bug or have a suggestion, please open an issue.
-
-# License
-This project is licensed under the MIT License.
-
-Enjoy visualizing pathfinding algorithms!
