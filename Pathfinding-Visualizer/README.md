@@ -44,7 +44,7 @@ A pathfinding visualizer made in Python and Pygame. This project aims to provide
 ## Features
 * Visualizes pathfinding algorithms such as Dijkstra's,Bfs,Dfs,Greedy bfs and A*.
 * Visualizes maze generation algorithms like Recursive division and Prim's algorithm.
-* Feature to run all algorithms one by one  to compare their performance.
+* Feature to run all algorithms back to back to compare their performance.
 * Step-by-step animation of the search process, allowing you to see how the algorithms work.
 * Option to place obstacles on the grid to create custom maps.
 * Selectable starting and ending points on the grid.
